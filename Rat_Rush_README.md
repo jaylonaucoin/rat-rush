@@ -6,20 +6,7 @@
 
 ## Author(s)
 
-* [Jaylon Aucoin](jy349203@dal.ca)
-
-## Extra Features
-
-* Main Menu
-* Game Over Screen
-* Sound Effects
-* Music
-* UI Elements
-* Character Animations
-* Rat Animations
-* Pause Menu
-* Moving Platforms
-* Logo
+* Jaylon Aucoin - [jaylon.aucoin@dal.ca](mailto://jaylon.aucoin@dal.ca)
 
 ## Built With
 
