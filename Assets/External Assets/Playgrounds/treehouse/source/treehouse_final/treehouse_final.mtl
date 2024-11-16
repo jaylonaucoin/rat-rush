@@ -1,0 +1,156 @@
+# Blender 3.3.0 MTL File: 'treehouse_final.blend'
+# www.blender.org
+
+newmtl Material.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd textures/Bitmap2Material_3_Base_Color.tga.png
+map_Ns textures/Bitmap2Material_3_Roughness.tga.png
+map_d textures/Bitmap2Material_3_Base_Color.tga.png
+map_Bump -bm 1.000000 textures/Bitmap2Material_3_Normal.tga.png
+
+newmtl fabric
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl floor
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_floor_Diffuse.png
+map_Ks textures/low poly1_floor_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_floor_Normal.png
+
+newmtl ladder
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_ladder_Diffuse.png
+map_Ks textures/low poly1_ladder_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_ladder_Normal.png
+
+newmtl metal
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_metal_Diffuse.png
+map_Ks textures/low poly1_metal_Specular.png
+map_refl textures/low poly1_metal_Diffuse.png
+map_Bump -bm 1.000000 textures/low poly1_metal_Normal.png
+
+newmtl net
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_net_Diffuse.png
+map_Ks textures/low poly1_net_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_net_Normal.png
+
+newmtl plank
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_wall_Diffuse.png
+map_Ks textures/low poly1_wall_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_wall_Normal.png
+
+newmtl rail
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_handrail_Diffuse.png
+map_Ks textures/low poly1_handrail_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_handrail_Normal.png
+
+newmtl roof
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_roof02_Diffuse.png
+map_Ks textures/low poly1_roof02_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_roof02_Normal.png
+
+newmtl roof.01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_roof01_Diffuse.png
+map_Ks textures/low poly1_roof01_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_roof01_Normal.png
+
+newmtl twig.001
+Ns 2.500001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.304545 0.304545 0.304545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.200000
+illum 9
+map_Bump -bm 1.000000 E:/GAME ART/sketchfab/plants/textures/Wood_002_normal.tga.png
+
+newmtl wood.01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_1001_Diffuse.png
+map_Ks textures/low poly1_1001_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_1001_Normal.png
+
+newmtl wood.02
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_1003_Diffuse.png
+map_Ks textures/low poly1_1003_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_1003_Normal.png
+
+newmtl wood.03
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low poly1_1004_Diffuse.png
+map_Ks textures/low poly1_1004_Specular.png
+map_Bump -bm 1.000000 textures/low poly1_1004_Normal.png

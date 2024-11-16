@@ -1,0 +1,9 @@
+# MTL written from /Users/dlawlor/Desktop/Untitled.obj
+newmtl Tow_body
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd /Users/dlawlor/Desktop/Coast Guard Patrol Tow Boat/Tow_Body_D.tga
